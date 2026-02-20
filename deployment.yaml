@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: todo-container
-        image: yourusername/todo-app:v1  # Your custom image!
+        image: govind2026/todo-app:v1 
         ports:
         - containerPort: 80
